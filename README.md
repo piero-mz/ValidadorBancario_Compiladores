@@ -1,6 +1,5 @@
 # Sistema de Validación de Datos Bancarios
-**Curso:** Compiladores — USIL 2026-1  
-**Caso 2:** Analizador Léxico y Sintáctico
+**Curso:** Compiladores — USIL 
 
 ---
 
